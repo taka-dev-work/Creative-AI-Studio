@@ -1,0 +1,5 @@
+{
+  "name": "Creative AI Studio",
+  "description": "An AI-powered application to automatically generate high-quality images and catchy captions for Instagram posts. Users can input a prompt, customize style and mood, preview the result, and export the final image.",
+  "requestFramePermissions": []
+}
